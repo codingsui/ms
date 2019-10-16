@@ -1,0 +1,4 @@
+server:
+  port: 8080 #定义访问端口
+  servlet:
+    context-path: /ms
